@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am an undergraduate Computer Science student at BINUS University, seeking an iOS engineering role to apply and grow my skills in Swift and mobile app development.
 <!--
 **FebyAgatha/FebyAgatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
