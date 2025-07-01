@@ -1,6 +1,14 @@
 ## Hi there 👋
 
+---
+
 I am an undergraduate Computer Science student at BINUS University, seeking an iOS engineering role to apply and grow my skills in Swift and mobile app development.
+
+___
+
+### Connect with me
+
+---
 
 <div align="left">
   <a href="https://www.linkedin.com/in/feby-agatha/" target="_blank">
@@ -25,25 +33,3 @@ I am an undergraduate Computer Science student at BINUS University, seeking an i
 <img src="https://raw.githubusercontent.com/FebyAgatha/FebyAgatha/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FebyAgatha/FebyAgatha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FebyAgatha/FebyAgatha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FebyAgatha/FebyAgatha/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-<!--
-**FebyAgatha/FebyAgatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
