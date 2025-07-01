@@ -1,14 +1,9 @@
 ## Hi there 👋
 
----
-
 I am an undergraduate Computer Science student at BINUS University, seeking an iOS engineering role to apply and grow my skills in Swift and mobile app development.
+__
 
-___
-
-### Connect with me
-
----
+## Connect with me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/feby-agatha/" target="_blank">
